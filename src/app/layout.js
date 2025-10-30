@@ -24,7 +24,7 @@ export const metadata = {
         height: 1080,
       },
     ],
-    url: "https://zakee-boxes.vercel.app/",
+    url: "https://zakeeboxes.com/",
     type: "website",
     siteName: "Zakee Boxes",
   },
@@ -55,7 +55,7 @@ export const metadata = {
     "max-snippet": -1,
   },
 
-  metadataBase: new URL("https://zakee-boxes.vercel.app/"),
+  metadataBase: new URL("https://zakeeboxes.com/"),
 };
 
 export default function RootLayout({ children }) {

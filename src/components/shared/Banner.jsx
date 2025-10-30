@@ -82,10 +82,7 @@ export default function Banner() {
           </h1>
 
           <div className="flex flex-col sm:flex-row justify-center items-center gap-5 sm:gap-10 mt-12 ">
-            <Link
-              href="https://wholesale-zakeeboxes.vercel.app/"
-              target="_blank"
-            >
+            <Link href="https://zakeeboxeswholesale.com/" target="_blank">
               <button
                 // icon={<FiExternalLink className="size-5" />}
                 prefix={<FiExternalLink className="size-5" />}
@@ -96,7 +93,7 @@ export default function Banner() {
                 <FiExternalLink className="size-5" />
               </button>
             </Link>
-            <Link href="" target="_blank">
+            <Link href="#" target="_blank">
               <button
                 // icon={<FiExternalLink className="size-5" />}
                 type="primary"
